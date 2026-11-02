@@ -1,0 +1,6 @@
+{
+  "name": "PyFinanças - Finanças Pessoais & Metas em Python",
+  "description": "Aplicativo de finanças pessoais com rastreamento de gastos mensais, cálculo automático de metas de economia (Regra 50/30/20, Reserva de Emergência) e motor de scripts Python.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
